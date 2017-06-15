@@ -1,4 +1,4 @@
-yii2 inquid spotify
+yii2 Inquid Spotify
 ===================
 spotify, utilities for yii2 framework
 
