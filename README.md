@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist inquid/yii2-spotify "*"
 or add
 
 ```
-"inquid/yii2-spotify": "*"
+"inquid/yii2-spotify": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
