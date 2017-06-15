@@ -28,4 +28,18 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \inquid\spotify\AutoloadExample::widget(); ?>```
+<?= \inquid\spotify\SpotifyWidget::widget(['song' => '/* paste here your spotify uri */']); ?>```
+
+Params available:
+    -song
+    -theme
+    -view
+    -width
+    -height
+    -frameBorder
+    -transparency
+
+* Song params is required like the next example spotify:track:5O31BTWa4XNFtE3zVgeCoh
+
+for more information check out the following link:
+ https://developer.spotify.com/technologies/widgets/spotify-play-button/
