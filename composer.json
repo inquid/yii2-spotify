@@ -1,0 +1,21 @@
+{
+    "name": "inquid/yii2-spotify",
+    "description": "spotify, utilities for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Víctor Nicolás",
+            "email": "victor.nicolas@inquid.co"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "inquid\\spotify\\": ""
+        }
+    }
+}
