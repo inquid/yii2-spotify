@@ -47,7 +47,7 @@ To copy the code in spotify: ![Example](https://developer.spotify.com/wp-content
 
 Exampple 
 -----
-![Ximena](https://lh4.googleusercontent.com/OkbQJHEoCEsHsTpwmid9gf_FAMfpBx7fcoD6lHtdyUFvaMjZpc_u6c_rDoar_NyHe7EojVVUj-3DcI0=w2880-h1800-rw)
+![Ximena](https://lh5.googleusercontent.com/1pqDXsmIdgCCAv44l1uIpv_grzV-sjmawTq-UmL-u-es3xl5X_I11k-G6acfCg_U1Y8Or1IXA2AvT_s=w2880-h1800-rw)
 
 Code:
 ```
