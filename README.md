@@ -43,5 +43,8 @@ Params available:
 
 * Song params is required like the next example spotify:track:5O31BTWa4XNFtE3zVgeCoh
 
+To copy the code in spotify: ![Example](https://developer.spotify.com/wp-content/uploads/2013/11/select-track-link.jpg)
+
+
 for more information check out the following link:
  https://developer.spotify.com/technologies/widgets/spotify-play-button/
