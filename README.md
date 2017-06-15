@@ -28,7 +28,9 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \inquid\spotify\SpotifyWidget::widget(['song' => '/* paste here your spotify uri */']); ?>```
+<?= \inquid\spotify\SpotifyWidget::widget(['song' => '/* paste here your spotify uri */']); ?>
+
+```
 
 Params available:
     -song
