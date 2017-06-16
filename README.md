@@ -1,6 +1,6 @@
 yii2 Inquid Spotify
 ===================
-spotify, utilities for yii2 framework
+spotify utilities for yii2 framework
 
 Installation
 ------------
@@ -45,7 +45,7 @@ Params available:
 
 To copy the code in spotify: ![Example](https://developer.spotify.com/wp-content/uploads/2013/11/select-track-link.jpg)
 
-Exampple 
+Example 
 -----
 ![Ximena](https://lh5.googleusercontent.com/1pqDXsmIdgCCAv44l1uIpv_grzV-sjmawTq-UmL-u-es3xl5X_I11k-G6acfCg_U1Y8Or1IXA2AvT_s=w2880-h1800-rw)
 
